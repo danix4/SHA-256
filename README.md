@@ -1,4 +1,4 @@
-# SHA-256 
+# SHA-256 (05.02.2024)
 An implementation of the SHA-256 hashing algorithm, created for a university project while studying at Sofia University.
 
 # Usage
